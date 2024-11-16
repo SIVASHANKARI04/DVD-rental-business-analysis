@@ -1,3 +1,5 @@
+I have analyzed DVD rental data using postgresql in PG Admin along with the tools of sql.
+
 It seems to be describing a relational database schema for a DVD rental system. Here's an overview of how these tables can be structured and related to one another,
 along with a brief explanation of their purpose:
 
